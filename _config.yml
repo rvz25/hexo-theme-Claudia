@@ -13,19 +13,19 @@ widgets:
 
 # social config
 social:
-  # zhihu: /
-  # twitter: /
-  # facebook: /
+  #zhihu:
+  #twitter: /
+  #facebook: /
   linkedin: razvan-popa-333740293
-  # instagram: /
+  #instagram: /
   github: rvz25
 
 user:
-  name: Rvz25
-  avatar: https://wallpapercg.com/media/ts_orig/6303.webp
+  name: Razvan
+  avatar:
   location: Bucharest
-  description: "The quieter you become, the more you are able to hear"
-  footnotes: # footnotes
+  description: You are born original, don't die as a copy.
+  # footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
@@ -52,16 +52,6 @@ appearance: auto # Default value is auto
 
 # Miscellaneous
 favicon: images/favicon.ico
-
-friend_links:
-#  - title: Google
-#    link: https://www.google.com/
-#  - title: Github
-#    link: https://www.github.com/
-#  - title: V2EX
-#    link: https://v2ex.com/
-#  - title: Twitter
-#    link: https://twitter.com/
 
 # Google Analytics
 ga_track_id:
