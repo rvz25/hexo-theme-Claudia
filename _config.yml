@@ -13,18 +13,18 @@ widgets:
 
 # social config
 social:
-  zhihu:
-  twitter: /
-  facebook: /
-  linkedin:
-  instagram: /
-  github: haojen
+  # zhihu: /
+  # twitter: /
+  # facebook: /
+  linkedin: https://www.linkedin.com/in/razvan-popa-333740293/
+  # instagram: /
+  github: https://github.com/rvz25
 
 user:
-  name: Haojen
-  avatar:
-  location: In the dust
-  description: May the Force be with you
+  name: Rvz25
+  avatar: https://wallpapercg.com/media/ts_orig/6303.webp
+  location: Bucharest
+  description: Greetings! I'm Razvan, a 19-year-old cybersecurity enthusiast committed to continuous learning. As a junior professional, I hold a PJPT Certification and am actively pursuing the eWPTv2. Passionate about acquiring new skills daily, I thrive on staying at the forefront of cybersecurity challenges and solutions.
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
@@ -54,14 +54,14 @@ appearance: auto # Default value is auto
 favicon: images/favicon.ico
 
 friend_links:
-  - title: Google
-    link: https://www.google.com/
-  - title: Github
-    link: https://www.github.com/
-  - title: V2EX
-    link: https://v2ex.com/
-  - title: Twitter
-    link: https://twitter.com/
+#  - title: Google
+#    link: https://www.google.com/
+#  - title: Github
+#    link: https://www.github.com/
+#  - title: V2EX
+#    link: https://v2ex.com/
+#  - title: Twitter
+#    link: https://twitter.com/
 
 # Google Analytics
 ga_track_id:
