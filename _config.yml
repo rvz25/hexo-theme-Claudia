@@ -1,7 +1,7 @@
 # main menu navigation
 menu:
   Home: /
-  About: /about
+  #About: /about
   Archive: /archives
 
 widgets:
@@ -18,42 +18,40 @@ social:
   #facebook: /
   linkedin: razvan-popa-333740293
   #instagram: /
-  github: rvz25
+  #github: rvz25
 
 user:
-  name: Razvan
+  name: Rãzvan
   avatar:
   location: Bucharest
-  description: You are born original, don't die as a copy.
+  description: scientia potentia est.
   # footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
-comment_utteranc:
-  enable: true
-  repo: Haojen/Claudia-theme-blog # your blog repo
+#comment_utteranc:
+  #enable: true
+  #repo: Haojen/Claudia-theme-blog # your blog repo
 
 
 # documents: https://valine.js.org/quickstart.html
-comment_valine:
-  enable: false
-  appId:
-  appKey:
+#comment_valine:
+  #enable: true
+  #appId:
+  #appKey:
 
-comment_disqus:
-    enable: false
-    url:  # the url of your website main domain like this https://xxx.xxx/
-    name: # the short name in disqus
+#comment_disqus:
+    #enable: true
+    #url: http://rvz25.github.io # the url of your website main domain like this https://xxx.xxx/
+    #name: rzv25 # the short name in disqus
 
-# dark
+#  dark
 # light
 # user-can-set
-appearance: auto # Default value is auto
+appearance: dark # Default value is auto
 
 # Miscellaneous
-favicon: images/favicon.ico
-
-# Google Analytics
+favicon: /hexo-theme-Claudia/images/favicon.jpg
 ga_track_id:
 ga_domain:
 
@@ -61,7 +59,7 @@ ga_domain:
 ba_track_id:
 
 # picture of about page
-about_pic: about.png
+#about_pic: about.png
 
 image_zoom:
   enable: true
